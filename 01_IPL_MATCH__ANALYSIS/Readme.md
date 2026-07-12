@@ -47,23 +47,7 @@ Analyzed 633 IPL matches across 10 seasons (2008–2017) using a full clean → 
 <img width="352" height="259" alt="ipl_image1" src="https://github.com/user-attachments/assets/26b677f4-5028-459d-bdd7-3d5ccc881b17" />
 <img width="349" height="273" alt="image" src="https://github.com/user-attachments/assets/18aafe9b-9ed3-4969-9115-8ea1416a9fc5" />
 
-
-## 🚀 How to Run This Yourself
-
-```bash
-git clone https://github.com/ritikatiwari2503-hash/DATA-ANALYSIS-PROJECTS-USING-PYTHON.git
-cd DATA-ANALYSIS-PROJECTS-USING-PYTHON/01_IPL_MATCH_ANALYSIS
-pip install pandas numpy matplotlib jupyter
-jupyter notebook ipl_analysis.ipynb
-```
-*(Double-check the repo name and folder name above exactly match what's shown in your GitHub URL — small naming differences will make this command fail.)*
-
-## 📈 What's Next
-
-- Extend analysis to ball-by-ball (`deliveries.csv`) data for player-level stats (strike rates, economy rates)
-- Build an interactive dashboard (Streamlit) for exploring trends by team/season
-
-## 👤 Author
+## 👤🌸 Author
 
 **Ritika Tiwari**
 Data Science and AI Student, IIT Madras
