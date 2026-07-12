@@ -14,12 +14,12 @@ the dataset, steps, and tools used.
 2. coming 
 
 ## 📌 Tools & Libraries
-*Python
-*Pandas 
-*NumPy 
-*Matplotlib 
-*Seaborn 
-*Jupyter Notebook
+🐍 Python
+🐼 Pandas
+🔢 NumPy
+📊 Matplotlib
+🌊 Seaborn
+📓 Jupyter Notebook
 
 ## 📌 Author
 👤🌸Ritika Tiwari —> first-year , IIT Madras⭐ BS in Data Science and AI .
