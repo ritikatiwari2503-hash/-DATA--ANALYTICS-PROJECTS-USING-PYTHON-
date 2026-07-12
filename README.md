@@ -1,5 +1,5 @@
 📈-DATA--ANALYTICS-PROJECTS-USING-PYTHON-🐍
-Data Analysis Projects using Python and its Libraries⭐⭐⭐⭐⭐
+Data Analysis Projects using Python and its Libraries⭐
 
 
 A collection of data analysis projects, built while learning Python for data
