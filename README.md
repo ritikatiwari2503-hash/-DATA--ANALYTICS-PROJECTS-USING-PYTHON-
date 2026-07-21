@@ -21,8 +21,10 @@ the dataset, steps, and tools used.
 3. 🔢 NumPy
 4. 📊 Matplotlib
 5. 🌊 Seaborn
-6. 📓 Jupyter Notebook
+6. ⚡Streamlit
+7. 📓Jupyter notebook
 
+   
 ## 📌 Author
 👤🌸Ritika Tiwari —>  
   first-year , IIT Madras⭐ BS in Data Science and AI .
